@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\Test_Add_On\Test_Add_On\bin\Debug\Test_Add_On.exe
+c:\users\alex\documents\visual studio 2015\Projects\Test_Add_On\Test_Add_On\bin\Debug\Test_Add_On.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Test_Add_On\Test_Add_On\obj\Debug\Test_Add_On.exe
+c:\users\alex\documents\visual studio 2015\Projects\Test_Add_On\Test_Add_On\obj\Debug\Test_Add_On.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\Test_Add_On\Test_Add_On\obj\Debug\Test_Add_On.csprojResolveAssemblyReference.cache
